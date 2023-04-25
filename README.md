@@ -3,7 +3,7 @@
 
  </div>
 
-Hi 👋 I am Beatriz Gomez,  A Passionate about technology and a curious lifelong learner, I am a Master's student in Business Information Systems constantly seeking new challenges. With a focus on Big Data, I have experience as an analyst and am currently developing my skills as a Data Engineer and Scientist. I stay up-to-date with the latest tech trends and apply analytical thinking to effectively solve problems. With 4 years of experience in data analysis, I consider myself a proactive, curious, and highly motivated individual ready to tackle any business challenge. Let's connect and collaborate on exciting projects! 
+Hi 👋 I am Beatriz Gomez,  A Passionate about technology and finding creative solutions to complex problems. Currently, I am specializing in Big Data and studying for a Masters in Business Information Systems to become a Data Scientist and Engineer. In addition to having experience as a data analyst, I have an analytical mind that allows me to solve problems effectively. I am a curious, proactive person and I am always looking for new challenges. I love collaborating on exciting projects and contributing to the tech community. Contact me to discuss technology or collaborate on interesting projects!
 
 - 🌱 I’m currently learning #datascience
 - 👯 I’m looking to collaborate on open source #Python projects
